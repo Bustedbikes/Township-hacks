@@ -1,1 +1,3 @@
-/storage/emulated/0/notes/com.playrix.township.lua
+while true do
+loadstring(game:HttpGet("/storage/emulated/0/notes/com.playrix.township.lua",true))();
+end
